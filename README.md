@@ -306,6 +306,6 @@ This scaffold is set up for local development. Before deploying:
 
 | Contributor | GitHub Profile |
 | :--- | :--- |
-| **Marios Papachrysanthou** | [@mpapachrys](https://github.com/mpapachrys) |
+| **Manos Papachrysanthou** | [@mpapachrys](https://github.com/mpapachrys) |
 | **Dimitris Papachrysanthou** | [@DimitrisPapachrysanthou](https://github.com/DimitrisPapachrysanthou) |
 | **Nikos Koukis** | [@nikos-koukis](https://github.com/nikos-koukis) |
